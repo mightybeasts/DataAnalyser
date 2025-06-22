@@ -1,0 +1,21 @@
+Date,Product,Region,Category,Quantity,Unit_Price,Sales
+2024-01-02,iPhone 14,North,Electronics,2,799,1598
+2024-01-04,Nike Air Max,South,Footwear,1,120,120
+2024-01-06,MacBook Air,East,Electronics,1,999,999
+2024-01-08,Levi's Jeans,West,Clothing,3,60,180
+2024-01-11,KitchenAid Mixer,South,Appliances,1,350,350
+2024-01-13,Canon DSLR,North,Electronics,2,899,1798
+2024-01-15,Sony WH-1000XM5,West,Electronics,1,399,399
+2024-01-18,Adidas Ultraboost,East,Footwear,2,180,360
+2024-01-20,Galaxy S22,South,Electronics,2,699,1398
+2024-01-22,MacBook Air,North,Electronics,1,999,999
+2024-01-25,Levi's Jeans,South,Clothing,2,60,120
+2024-01-27,Samsung TV,East,Electronics,1,549,549
+2024-01-30,iPhone 14,West,Electronics,1,799,799
+2024-02-02,KitchenAid Mixer,North,Appliances,1,350,350
+2024-02-05,Canon DSLR,South,Electronics,1,899,899
+2024-02-07,Galaxy S22,East,Electronics,1,699,699
+2024-02-10,Nike Air Max,North,Footwear,1,120,120
+2024-02-12,Adidas Ultraboost,West,Footwear,3,180,540
+2024-02-15,Sony WH-1000XM5,South,Electronics,2,399,798
+2024-02-18,Samsung TV,North,Electronics,1,549,549
