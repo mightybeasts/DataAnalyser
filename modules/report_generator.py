@@ -59,7 +59,7 @@ def generate_pdf(df, stats, output_path):
     styles = getSampleStyleSheet()
     story = []
 
-    story.append(Paragraph("📊 Detailed Sales Report", styles["Title"]))
+    story.append(Paragraph("Detailed Sales Report", styles["Title"]))
     story.append(Spacer(1, 0.2 * inch))
 
     for k, v in stats.items():
