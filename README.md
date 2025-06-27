@@ -7,3 +7,7 @@ How to Run
 2. Run the app
 
 ```streamlit run app.py```
+
+# Live Website
+
+```https://weatherforecastnow.streamlit.app/```
